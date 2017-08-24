@@ -2,7 +2,7 @@
  
 ## Demo 1: Graph Explorer
 
-1. Go to URL [graph.microsoft.com]()
+1. Go to URL [graph.microsoft.com](https://graph.microsoft.com)
  
  Explain this link is one-stop place for documentation, examples and graph explorer.
  
